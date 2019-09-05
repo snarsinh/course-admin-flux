@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -67,8 +66,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
-=======
-# course-admin-flux
-React with Flux application - Course Administration Web Application
->>>>>>> cd72abfa5e5a2dc81c9ae8cf2e84108e932d30ca
-"# course-admin-flux" 
+"# course-admin-flux"
