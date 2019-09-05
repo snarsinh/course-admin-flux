@@ -1,2 +1,2 @@
 # course-admin-flux
-React with Flux practice application - Course Administration Web Application
+React with Flux application - Course Administration Web Application
