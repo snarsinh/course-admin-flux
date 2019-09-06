@@ -69,11 +69,28 @@
       "slug": "WCF",
       "authorId": 1,
       "category": "Design"
+    },
+    {
+      "id": 11,
+      "slug": "test-1",
+      "title": "Test 1",
+      "authorId": 1,
+      "category": "dummy",
+      "createdAt": 1567807196657
     }
   ],
   "authors": [
-    { "id": 1, "name": "John Deor" },
-    { "id": 2, "name": "Allan Duran" },
-    { "id": 3, "name": "Jack Li" }
+    {
+      "id": 1,
+      "name": "John Deor"
+    },
+    {
+      "id": 2,
+      "name": "Allan Duran"
+    },
+    {
+      "id": 3,
+      "name": "Jack Li"
+    }
   ]
 }
