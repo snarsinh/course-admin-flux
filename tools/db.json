@@ -77,6 +77,14 @@
       "authorId": 1,
       "category": "dummy",
       "createdAt": 1567807196657
+    },
+    {
+      "id": 12,
+      "slug": "test-2",
+      "title": "Test 2",
+      "authorId": 2,
+      "category": "dummy 2",
+      "createdAt": 1567809714271
     }
   ],
   "authors": [
